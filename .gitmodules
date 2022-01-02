@@ -1,0 +1,3 @@
+[submodule "scrypted-private-plugins"]
+	path = scrypted-private-plugins
+	url = ../../koush/scrypted-private-plugins
